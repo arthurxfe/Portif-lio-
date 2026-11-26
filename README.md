@@ -75,7 +75,7 @@ Este repositório foi estruturado do zero com foco em performance, design respon
   * *Descrição:* Modelagem e implementação de um banco de dados relacional no MySQL Workbench, contendo tabelas, registros e consultas estruturadas.
   * *Tecnologias:* MySQL, DDL
 
-* **SkillPath**[cite: 1]
+* **SkillPath**
   * *Descrição:* Plataforma conceitual que compara as competências atuais de um usuário com as exigidas por um cargo, gerando trilhas de estudos personalizadas.
   * *Tecnologias:* Produto, Startup
 
