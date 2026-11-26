@@ -71,17 +71,9 @@ Este repositório foi estruturado do zero com foco em performance, design respon
   * *Descrição:* Programa desenvolvido em C focado em lógica de controle, monitorando leituras térmicas e reagindo a faixas definidas.
   * *Tecnologias:* C
 
-* **Sistema de Fórmula 1**
-  * *Descrição:* Modelagem e implementação de um banco de dados relacional no MySQL Workbench, contendo tabelas, registros e consultas estruturadas.
-  * *Tecnologias:* MySQL, DDL
-
 * **SkillPath**
   * *Descrição:* Plataforma conceitual que compara as competências atuais de um usuário com as exigidas por um cargo, gerando trilhas de estudos personalizadas.
   * *Tecnologias:* Produto, Startup
-
-* **Reserva de Carros**
-  * *Descrição:* Estrutura DDL completa para o sistema de uma locadora de veículos, englobando entidades, relacionamentos e restrições de integridade referencial.
-  * *Tecnologias:* SQL, Modelagem de Dados
 
 * **Portfólio Pessoal**
   * *Descrição:* O próprio site do portfólio, altamente responsivo, com suporte a temas e mini-jogos interativos integrados em JavaScript puro.
